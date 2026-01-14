@@ -1,3 +1,4 @@
+!logo(https://github.com/Saranshjain-git/Saranshjain-git/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Saransh Jain</h1>
 <h3 align="center">Software Engineer with a strong focus on frontend and hands-on experience in building full-stack and AI-based applications. I enjoy working on real-world projects, clean UI, and scalable backend systems.</h3>
 
