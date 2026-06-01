@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
-- 🔭 My First-Project on [Edemy-Full Stack E-learning Platform](https://github.com/Saranshjain-git/LMS-PROJECT-EDEMY)
+- 🔭 My First-Project on [Learnova-Full Stack E-learning Platform](https://github.com/Saranshjain-git/Learnova-LMS)
 
 - 🌱 I’m currently learning **React patterns, backend optimization, and deployment workflows.**
 
