@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **jainsaranshh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y06_K7dw1tQEDhQ2GVWaiKkBL-kgx3Mf/view?usp=sharing](https://drive.google.com/file/d/1y06_K7dw1tQEDhQ2GVWaiKkBL-kgx3Mf/view?usp=sharing)
+- 📄 Know about my experiences
+- (https://drive.google.com/file/d/1igQcGBEte5W0UhOY10da3suSqzpB_w_R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
