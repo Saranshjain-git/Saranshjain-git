@@ -10,7 +10,7 @@
 
 - 👯 My Second-Project on [Leetcode-Coderver](https://github.com/Saranshjain-git/Leetcode-Coderver)
 
-- 🤝 My Third-Project on [Ai-Voice Assistant-Jarvis](https://github.com/Saranshjain-git/Ai-Voice-Assistant-JARVIS)
+- 🤝 My Third-Project on [Ai-Voice Assistant-Jarvis](https://github.com/Saranshjain-git/JARVIS-Ai-Virtual-Assistant)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saranshjain-git](https://github.com/Saranshjain-git)
 
